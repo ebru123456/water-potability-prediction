@@ -1,0 +1,6 @@
+venv/
+.venv/
+.idea/
+__pycache__/
+*.pyc
+potability_pie_chart.html
